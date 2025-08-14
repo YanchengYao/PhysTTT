@@ -1,4 +1,4 @@
-"""Trainer for PhysTTT."""
+"""Trainer for PhysioLSTM."""
 import os
 import numpy as np
 import torch
